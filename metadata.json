@@ -1,0 +1,6 @@
+{
+  "name": "Skribbl.io Multiplayer",
+  "description": "Real-time multiplayer drawing and guessing game built with Node.js and React",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
